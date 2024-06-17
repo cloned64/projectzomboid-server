@@ -8,6 +8,9 @@ services:
     environment:
       SERVER_ADMIN_PASSWORD: "pzadmin"
       SERVER_PASSWORD: "secretpassword"
+      SERVER_PUBLIC_NAME: "cloned's clown fiesta"
+      SERVER_PUBLIC_DESC: "A CARNIVAL OF VALUE"
+      SERVER_MAX_PLAYER: "8"
     ports:
       - "16261:16261/udp"
       - "16262:16262/udp"
