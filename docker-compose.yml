@@ -12,6 +12,8 @@ services:
       SERVER_PUBLIC_DESC: "A CARNIVAL OF VALUE"
       SERVER_MAX_PLAYER: "8"
 
+      SERVER_NAME: "nerd_town"
+
       MOD_NAMES: "FRUsedCars;FRUsedCarsFT;FRUsedCarsNLF;FRUsedCarsNRN;modoptions;RavenCreek;firearmmod;firearmmodbspatch;autotsartrailers;AuthenticZBackpacks;Authentic Z - Current;AuthenticZLite;tsarslib;AquatsarYachtClub;BCGTools;BCGRareWeapons;TMC_Trolley;ExerciseWithGear;P4HasBeenRead;AutoSewing;AutoMechanics;ATA_Bus;fuelsideindicator;TheStar;isoContainers;ATA_Jeep;ATA_Jeep_x10;ATA_Jeep_x2;ATA_Jeep_x4;ATA_Mustang;ATA_Mustang_x2;ATA_Mustang_x4;MoreDescriptionForTraits4166;FindPropanTanks;OccupiedLouisvilleSpawnpoints;OccupiedLouisvilleSpawnpoints12;agrotsar;MoreMaps;ATA_Dadge;SpawnsRC;amclub;ATA_Petyarbuilt;ATA_Luton;fhqExpVehSpawn;fhqExpVehSpawnGageFarmDisable;fhqExpVehSpawnM911FarmDisable;fhqExpVehSpawnP19AFarmDisable;fhqExpVehSpawnNoVanilla;fhqExpVehSpawnRedRace;MoreDurableAxes;ATA_VanDeRumba;BSCBSC;ProximityInventory;ATA_Samara;AuthenticZStudderFix;VehicleRecycling_Rebuild;TomaroBitten;TomaroImmune;TomaroImmunitySystem;ATA_BMW_E36;EQUIPMENT_UI;RainCleansBlood;ATA_DeLorean"
       MOD_WORKSHOP_IDS: "1510950729;2169435993;2196102849;2256623447;2282429356;2335368829;2392709985;2392987599;2423906082;2432621382;2478768005;2513537093;2544353492;2584991527;2588598892;2592358528;2616986064;2619072426;2625625421;2636100523;2681635926;2685168362;2696350311;2706495780;2728257015;2729427093;2743496289;2752808034;2778576730;2782258356;2792425535;2793164190;2796743907;2811232708;2834691782;2847184718;2850439818;2911197660;2930682200;2935667789;2941971399;2946111058;2950902979;2956146279;2963237571"
     
